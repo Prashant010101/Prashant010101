@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Prashant010101
+- 👋 Hi, I’m Prashant
 - 👀 I’m interested in Progrmaming, IT, and Music
-- 🌱 I’m currently persuing BCA From Maharishi Arvind School of Management Studies
-- 💞️ I'm preparing myself for Internship and I’m looking to collaborate on a technical project of programming 
+- 🌱 I’m currently persuing MCA From Maharishi Arvind Institute of Science and Management
+- 💞️ I'm preparing myself for a Software Developer Position and I’m looking to collaborate on a technical project of programming 
 - 📫 prashant0jangir@gmail.com
 
 <!---
